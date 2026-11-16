@@ -7,6 +7,7 @@ const cities = [
   { name: "Davao City", lat: 7.1907, lon: 125.4553 },
   { name: "Cagayan de Oro", lat: 8.4542, lon: 124.6319 },
   { name: "Malaybalay", lat: 8.1575, lon: 125.1278 },
+  { name: "Manolo Fortich", lat: 8.36729, lon: 124.86557 },
 ];
 
 const map = L.map("map").setView([11.2, 123.0], 6);
